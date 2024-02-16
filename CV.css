@@ -1,0 +1,318 @@
+
+#mainContent1Text {
+
+    font-size: 1.5vw;
+
+}
+
+#mittNamn{
+
+    font-size: 3vw;
+
+}
+
+#Frankenstein{
+
+    font-size: 1.4vw;
+
+}
+
+#contaktMeLink{
+
+    font-size: 2vw;
+
+}
+
+#treStoraOrd{
+
+    font-size: 2vw;
+
+}
+
+#sista3Text{
+
+    font-size: 1.5vw;
+
+    text-align: center;
+
+}
+
+#kontaktaMig{
+
+    font-size: 3vw;
+
+}
+
+#work3StoraOrd{
+
+    font-size: 3vw;
+
+}
+
+#work3BrödText{
+
+    font-size: 1.3vw;
+
+    text-align: center;
+    
+}
+
+/* Responsiv till Navbar */
+
+@media screen and (max-width: 520px) {
+
+    .navOrd {
+
+        font-size: 2.2vw;
+
+    }
+
+}
+
+@media screen and (max-width: 577px) {
+
+    #mittNamn {
+
+        font-size: 4vw;
+
+    }
+
+}
+
+/*responsiv till mainContent1 */
+
+@media screen and (max-width: 750px) {
+
+    #mainContent1 {
+
+        height: 500px !important;
+
+    }
+
+}
+
+@media screen and (max-width: 750px) {
+
+    #mainContent1Bild {
+
+
+        width: 0vw !important;
+
+        margin-left: 50px;
+
+
+    }
+
+}
+
+@media screen and (max-width: 1050px) {
+
+    #mainContent1Text {
+
+        font-size: 13.5px;
+
+    }
+
+}
+
+@media screen and (max-width: 750px) {
+
+    #mainContent1Text {
+
+        font-size: 15.5px;
+
+    }
+
+}
+
+@media screen and (max-width: 540px) {
+
+    #mainContent1Text {
+
+
+        font-size: 12.5px;
+
+
+    }
+
+}
+
+@media screen and (max-width: 410px) {
+
+    #mainContent1Text {
+
+
+        font-size: 10px;
+
+
+    }
+
+}
+
+/* Responsivitet Frankenstein */
+
+@media screen and (max-width: 750px) {
+
+    #Frankenstein {
+
+
+        font-size: 2.5vw;
+
+
+    }
+
+}
+
+/* Responsivitet mainContent2 */
+
+@media screen and (max-width: 900px) {
+
+    #mainContent2 {
+
+
+        display: flex;
+        
+        flex-direction: column;
+
+        margin-bottom: 0px;
+
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+
+    #contaktMeLink {
+
+        font-size: 2.5vw;
+
+    }
+
+    #kontaktaMig{
+
+        margin-bottom: 0px !important;
+
+        margin-left: 30px;
+    
+    }
+
+    #textNoMargin{
+
+        margin-top: 30px !important;
+
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+
+    #contaktMeLink {
+
+        font-size: 4vw;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 992px) {
+
+    #treStoraOrd{
+    
+        font-size: 3vw;
+    
+    }
+
+    #kontaktaMig{
+
+        font-size: 5vw;
+    
+    }
+    
+}
+
+@media screen and (max-width: 992px) {
+
+    #treStoraOrd{
+    
+        font-size: 3vw;
+    
+    }
+    
+}
+
+@media screen and (max-width: 992px) {
+
+    #mainContent3{
+    
+        display: none;
+    
+    }
+    
+}
+
+@media screen and (max-width: 1000px) {
+
+    #workMainContent{
+    
+        display: flex;
+        flex-direction: column;
+    
+    }
+
+    #treStoraRutor{
+    
+        width: 60vw;
+
+        height: auto !important;
+
+        text-align: center;
+
+        align-items: center;
+    
+    }
+    
+    #work3StoraOrd{
+
+        margin-bottom: 0% !important;
+
+    }
+
+    #work3BrödText{
+
+        font-size: 2vw;
+    
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+
+    #work3BrödText{
+    
+        font-size: 2.6vw;
+    
+    }
+    
+}
+
+@media screen and (max-width: 450px) {
+
+    #work3BrödText{
+    
+        font-size: 3.1vw;
+    
+    }
+    
+}
+
+@media screen and (max-width: 550px) {
+
+    #work3StoraOrd{
+    
+        font-size: 4vw;
+    
+    }
+    
+}
